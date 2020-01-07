@@ -15,4 +15,4 @@ With the rise of the internet and electronic commerce, researchers have been fac
 The GLAMOR (Games, Learning, Algorithms, Models, Optimization and Research) Laboratory is a research group in Brown University's Computer Science department. Our group's research focuses on game theory, optimization, multi-agent systems and more broadly economic computation and is led by Amy Greenwald. Our research goals are two-fold: (1) to design and implement AI agents that interact effectively in multiagent  environments, and (2) to  understand and accurately predict the dynamics of such interactions.
 
 
-#The active projects in the lab are described in the [Projects](/#projects) section of this site.
+[comment]: <> (The active projects in the lab are described in the [Projects](/#projects) section of this site.) 
