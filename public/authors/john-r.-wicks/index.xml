@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John R. Wicks | GLAMOR Lab</title>
+    <link>/authors/john-r.-wicks/</link>
+      <atom:link href="/authors/john-r.-wicks/index.xml" rel="self" type="application/rss+xml" />
+    <description>John R. Wicks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>John R. Wicks</title>
+      <link>/authors/john-r.-wicks/</link>
+    </image>
+    
+    <item>
+      <title>An Algorithm for Computing Stochastically Stable Distributions with Applications to Multiagent Learning in Repeated Games</title>
+      <link>/publication/dblp-journalscorrabs-1207-1424/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalscorrabs-1207-1424/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More efficient parallel computation of pagerank</title>
+      <link>/publication/dblp-confsigir-wicks-g-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confsigir-wicks-g-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallelizing the Computation of PageRank</title>
+      <link>/publication/dblp-confwaw-wicks-g-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confwaw-wicks-g-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quotient Construction on Markov Chains with Applications to the Theory of Generalized Simulated Annealing</title>
+      <link>/publication/dblp-confisaim-wicks-g-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confisaim-wicks-g-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algorithm for Computing Stochastically Stable Distributions with Applications to Multiagent Learning in Repeated Games</title>
+      <link>/publication/dblp-confuai-wicks-g-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confuai-wicks-g-05/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

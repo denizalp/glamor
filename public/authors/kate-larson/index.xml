@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kate Larson | GLAMOR Lab</title>
+    <link>/authors/kate-larson/</link>
+      <atom:link href="/authors/kate-larson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kate Larson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kate Larson</title>
+      <link>/authors/kate-larson/</link>
+    </image>
+    
+    <item>
+      <title>Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems, AAMAS 2017, São Paulo, Brazil, May 8-12, 2017</title>
+      <link>/publication/dblp-confatal-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-Mediated Electronic Commerce. Designing Trading Strategies and Mechanisms for Electronic Markets - AMEC 2010, Toronto, ON, Canada, May 10, 2010, and TADA 2010, Cambridge, MA, USA, June 7, 2010 Revised Selected Papers</title>
+      <link>/publication/dblp-confamec-2010/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confamec-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

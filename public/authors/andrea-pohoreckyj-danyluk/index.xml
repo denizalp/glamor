@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Pohoreckyj Danyluk | GLAMOR Lab</title>
+    <link>/authors/andrea-pohoreckyj-danyluk/</link>
+      <atom:link href="/authors/andrea-pohoreckyj-danyluk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Pohoreckyj Danyluk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrea Pohoreckyj Danyluk</title>
+      <link>/authors/andrea-pohoreckyj-danyluk/</link>
+    </image>
+    
+    <item>
+      <title>Proceedings of the Eighteenth International Conference on Machine Learning (ICML 2001), Williams College, Williamstown, MA, USA, June 28 - July 1, 2001</title>
+      <link>/publication/dblp-conficml-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-conficml-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

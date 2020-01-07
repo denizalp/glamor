@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfgang Ketter | GLAMOR Lab</title>
+    <link>/authors/wolfgang-ketter/</link>
+      <atom:link href="/authors/wolfgang-ketter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wolfgang Ketter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wolfgang Ketter</title>
+      <link>/authors/wolfgang-ketter/</link>
+    </image>
+    
+    <item>
+      <title>JACK: A Java Auction Configuration Kit</title>
+      <link>/publication/dblp-confamec-goff-ghkls-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confamec-goff-ghkls-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-Mediated Electronic Commerce and Trading Agent Design and Analysis - AAMAS Workshop, AMEC 2008, Estoril, Portugal, May 12-16, 2008, and AAAI Workshop, TADA 2008, Chicago, IL, USA, July 14, 2008, Revised Selected Papers</title>
+      <link>/publication/dblp-confamec-2008/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confamec-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

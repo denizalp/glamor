@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas R. Jennings | GLAMOR Lab</title>
+    <link>/authors/nicholas-r.-jennings/</link>
+      <atom:link href="/authors/nicholas-r.-jennings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas R. Jennings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nicholas R. Jennings</title>
+      <link>/authors/nicholas-r.-jennings/</link>
+    </image>
+    
+    <item>
+      <title>Destroy to save</title>
+      <link>/publication/dblp-journalsgeb-clippel-npgj-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalsgeb-clippel-npgj-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Budget-Balanced and Nearly Efficient Randomized Mechanisms: Public Goods and beyond</title>
+      <link>/publication/dblp-confwine-guo-ncgj-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confwine-guo-ncgj-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest Editors&#39; Introduction: Agents and Markets</title>
+      <link>/publication/dblp-journalsexpert-greenwald-js-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalsexpert-greenwald-js-03/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

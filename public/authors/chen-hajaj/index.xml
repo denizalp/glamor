@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Hajaj | GLAMOR Lab</title>
+    <link>/authors/chen-hajaj/</link>
+      <atom:link href="/authors/chen-hajaj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Hajaj</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chen Hajaj</title>
+      <link>/authors/chen-hajaj/</link>
+    </image>
+    
+    <item>
+      <title>Agent-Mediated Electronic Commerce. Designing Trading Strategies and Mechanisms for Electronic Markets - AMEC/TADA 2015, Istanbul, Turkey, May 4, 2015, and AMEC/TADA 2016, New York, NY, USA, July 10, 2016, Revised Selected Papers</title>
+      <link>/publication/dblp-confamec-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confamec-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

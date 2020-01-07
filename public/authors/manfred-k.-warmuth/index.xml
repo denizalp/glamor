@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manfred K. Warmuth | GLAMOR Lab</title>
+    <link>/authors/manfred-k.-warmuth/</link>
+      <atom:link href="/authors/manfred-k.-warmuth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manfred K. Warmuth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Manfred K. Warmuth</title>
+      <link>/authors/manfred-k.-warmuth/</link>
+    </image>
+    
+    <item>
+      <title>Computational Learning Theory and Kernel Machines, 16th Annual Conference on Computational Learning Theory and 7th Kernel Workshop, COLT/Kernel 2003, Washington, DC, USA, August 24-27, 2003, Proceedings</title>
+      <link>/publication/dblp-confcolt-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confcolt-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

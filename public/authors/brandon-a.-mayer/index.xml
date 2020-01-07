@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandon A. Mayer | GLAMOR Lab</title>
+    <link>/authors/brandon-a.-mayer/</link>
+      <atom:link href="/authors/brandon-a.-mayer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brandon A. Mayer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Brandon A. Mayer</title>
+      <link>/authors/brandon-a.-mayer/</link>
+    </image>
+    
+    <item>
+      <title>Accounting for Price Dependencies in Simultaneous Sealed-Bid Auctions</title>
+      <link>/publication/dblp-confaaai-mayer-sgw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confaaai-mayer-sgw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for price dependencies in simultaneous sealed-bid auctions</title>
+      <link>/publication/dblp-confsigecom-mayer-sgw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confsigecom-mayer-sgw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The price of independence in simultaneous auctions</title>
+      <link>/publication/dblp-confatal-mayer-sg-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confatal-mayer-sg-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

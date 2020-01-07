@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Rogers | GLAMOR Lab</title>
+    <link>/authors/alex-rogers/</link>
+      <atom:link href="/authors/alex-rogers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Rogers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alex Rogers</title>
+      <link>/authors/alex-rogers/</link>
+    </image>
+    
+    <item>
+      <title>Agent-Mediated Electronic Commerce. Designing Trading Strategies and Mechanisms for Electronic Markets - AMEC 2010, Toronto, ON, Canada, May 10, 2010, and TADA 2010, Cambridge, MA, USA, June 7, 2010 Revised Selected Papers</title>
+      <link>/publication/dblp-confamec-2010/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confamec-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

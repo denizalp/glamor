@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Stone | GLAMOR Lab</title>
+    <link>/authors/peter-stone/</link>
+      <atom:link href="/authors/peter-stone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Stone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Peter Stone</title>
+      <link>/authors/peter-stone/</link>
+    </image>
+    
+    <item>
+      <title>Book announcement: autonomous bidding agents</title>
+      <link>/publication/dblp-journalssigecom-wellman-gs-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalssigecom-wellman-gs-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous bidding agents - strategies and lessons from the trading agent competition</title>
+      <link>/publication/dblp-booksdaglib-0018264/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-booksdaglib-0018264/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The First International Trading Agent Competition: Autonomous Bidding Agents</title>
+      <link>/publication/dblp-journalsecr-stone-g-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalsecr-stone-g-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest Editors&#39; Introduction: Agents and Markets</title>
+      <link>/publication/dblp-journalsexpert-greenwald-js-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalsexpert-greenwald-js-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2001 Trading Agent Competition</title>
+      <link>/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalselectronicmarkets-wellman-gsw-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2001 Trading Agent Competition</title>
+      <link>/publication/dblp-confaaai-wellman-gsw-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confaaai-wellman-gsw-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Bidding Agents in the Trading Agent Competition</title>
+      <link>/publication/dblp-journalsinternet-greenwald-s-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalsinternet-greenwald-s-01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

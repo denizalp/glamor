@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude Frasson | GLAMOR Lab</title>
+    <link>/authors/claude-frasson/</link>
+      <atom:link href="/authors/claude-frasson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claude Frasson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Claude Frasson</title>
+      <link>/authors/claude-frasson/</link>
+    </image>
+    
+    <item>
+      <title>Proceedings of the Fifth International Conference on Autonomous Agents, AGENTS 2001, Montreal, Canada, May 28 - June 1, 2001</title>
+      <link>/publication/dblp-confagents-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-confagents-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
