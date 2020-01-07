@@ -1,7 +1,7 @@
 ---
 title: "Budget-Balanced and Nearly Efficient Randomized Mechanisms: Public Goods and beyond"
 date: 2011-01-01
-publishDate: 2020-01-07T17:47:11.258624Z
+publishDate: 2020-01-07T18:46:32.199412Z
 authors: ["Mingyu Guo", "Victor Naroditskiy", "Vincent Conitzer", "Amy Greenwald", "Nicholas R. Jennings"]
 publication_types: ["1"]
 abstract: ""

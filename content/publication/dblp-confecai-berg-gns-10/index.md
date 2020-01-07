@@ -1,7 +1,7 @@
 ---
 title: "A Knapsack-Based Approach to Bidding in Ad Auctions"
 date: 2010-01-01
-publishDate: 2020-01-07T17:47:11.259497Z
+publishDate: 2020-01-07T18:46:32.200616Z
 authors: ["Jordan Berg", "Amy Greenwald", "Victor Naroditskiy", "Eric Sodomka"]
 publication_types: ["1"]
 abstract: ""

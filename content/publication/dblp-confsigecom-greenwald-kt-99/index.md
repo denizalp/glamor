@@ -1,7 +1,7 @@
 ---
 title: "Strategic pricebot dynamics"
 date: 1999-01-01
-publishDate: 2020-01-07T17:47:11.276295Z
+publishDate: 2020-01-07T18:46:32.218757Z
 authors: ["Amy Greenwald", "Jeffrey O. Kephart", "Gerald Tesauro"]
 publication_types: ["1"]
 abstract: ""

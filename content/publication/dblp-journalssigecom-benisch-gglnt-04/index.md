@@ -1,7 +1,7 @@
 ---
 title: "Botticelli: a supply chain management agent designed to optimize under uncertainty"
 date: 2004-01-01
-publishDate: 2020-01-07T17:47:11.267864Z
+publishDate: 2020-01-07T18:46:32.210311Z
 authors: ["Michael Benisch", "Amy Greenwald", "Ioanna Grypari", "Roger Lederman", "Victor Naroditskiy", "Michael Carl Tschantz"]
 publication_types: ["2"]
 abstract: ""

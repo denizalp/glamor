@@ -1,7 +1,7 @@
 ---
 title: "Correlated Q-Learning"
 date: 2003-01-01
-publishDate: 2020-01-07T17:47:11.271704Z
+publishDate: 2020-01-07T18:46:32.214180Z
 authors: ["Amy Greenwald", "Keith Hall"]
 publication_types: ["1"]
 abstract: ""

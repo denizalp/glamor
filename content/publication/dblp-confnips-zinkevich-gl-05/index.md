@@ -1,7 +1,7 @@
 ---
 title: "Cyclic Equilibria in Markov Games"
 date: 2005-01-01
-publishDate: 2020-01-07T17:47:11.267250Z
+publishDate: 2020-01-07T18:46:32.209778Z
 authors: ["Martin Zinkevich", "Amy Greenwald", "Michael L. Littman"]
 publication_types: ["1"]
 abstract: ""

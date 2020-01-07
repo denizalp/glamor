@@ -1,7 +1,7 @@
 ---
 title: "Bounds for Regret-Matching Algorithms"
 date: 2006-01-01
-publishDate: 2020-01-07T17:47:11.265531Z
+publishDate: 2020-01-07T18:46:32.207980Z
 authors: ["Amy Greenwald", "Zheng Li", "Casey Marks"]
 publication_types: ["1"]
 abstract: ""

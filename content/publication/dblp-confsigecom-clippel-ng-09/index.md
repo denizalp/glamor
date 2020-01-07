@@ -1,7 +1,7 @@
 ---
 title: "Destroy to save"
 date: 2009-01-01
-publishDate: 2020-01-07T17:47:11.260054Z
+publishDate: 2020-01-07T18:46:32.201404Z
 authors: ["Geoffroy de Clippel", "Victor Naroditskiy", "Amy Greenwald"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Marginal Bidding: An Application of the Equimarginal Principle to Bidding in TAC SCM"
 date: 2007-01-01
-publishDate: 2020-01-07T17:47:11.263333Z
+publishDate: 2020-01-07T18:46:32.205332Z
 authors: ["Amy Greenwald", "Victor Naroditskiy", "Tyler Odean", "Mauricio Ramirez", "Eric Sodomka", "Joe Zimmerman", "Clark Cutler"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "A stochastic programming approach to scheduling in TAC SCM"
 date: 2004-01-01
-publishDate: 2020-01-07T17:47:11.269448Z
+publishDate: 2020-01-07T18:46:32.211612Z
 authors: ["Michael Benisch", "Amy Greenwald", "Victor Naroditskiy", "Michael Carl Tschantz"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Self-confirming price-prediction strategies for simultaneous one-shot auctions"
 date: 2017-01-01
-publishDate: 2020-01-07T17:47:11.252096Z
+publishDate: 2020-01-07T18:46:32.190698Z
 authors: ["Michael P. Wellman", "Eric Sodomka", "Amy Greenwald"]
 publication_types: ["2"]
 abstract: ""

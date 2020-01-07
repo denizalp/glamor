@@ -1,7 +1,7 @@
 ---
 title: "The 2001 Trading Agent Competition"
 date: 2003-01-01
-publishDate: 2020-01-07T17:47:11.270480Z
+publishDate: 2020-01-07T18:46:32.212664Z
 authors: ["Michael P. Wellman", "Amy Greenwald", "Peter Stone", "Peter R. Wurman"]
 publication_types: ["2"]
 abstract: ""

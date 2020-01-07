@@ -1,7 +1,7 @@
 ---
 title: "A Quotient Construction on Markov Chains with Applications to the Theory of Generalized Simulated Annealing"
 date: 2006-01-01
-publishDate: 2020-01-07T17:47:11.265825Z
+publishDate: 2020-01-07T18:46:32.208309Z
 authors: ["John R. Wicks", "Amy Greenwald"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Shopbots and Pricebots"
 date: 1999-01-01
-publishDate: 2020-01-07T17:47:11.275736Z
+publishDate: 2020-01-07T18:46:32.218285Z
 authors: ["Amy Greenwald", "Jeffrey O. Kephart"]
 publication_types: ["1"]
 abstract: ""

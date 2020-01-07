@@ -1,7 +1,7 @@
 ---
 title: "Scaling Up the Sample Average Approximation Method for Stochastic Optimization with Applications to Trading Agents"
 date: 2005-01-01
-publishDate: 2020-01-07T17:47:11.266940Z
+publishDate: 2020-01-07T18:46:32.209467Z
 authors: ["Amy Greenwald", "Bryan Guillemette", "Victor Naroditskiy", "Michael Carl Tschantz"]
 publication_types: ["1"]
 abstract: ""

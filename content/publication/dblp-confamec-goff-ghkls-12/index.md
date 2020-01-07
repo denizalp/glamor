@@ -1,7 +1,7 @@
 ---
 title: "JACK: A Java Auction Configuration Kit"
 date: 2012-01-01
-publishDate: 2020-01-07T17:47:11.256863Z
+publishDate: 2020-01-07T18:46:32.197101Z
 authors: ["Thomas Goff", "Amy Greenwald", "Elizabeth Hilliard", "Wolfgang Ketter", "Andrew Loomis", "Eric Sodomka"]
 publication_types: ["1"]
 abstract: ""

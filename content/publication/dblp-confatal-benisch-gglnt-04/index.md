@@ -1,7 +1,7 @@
 ---
 title: "Botticelli: A Supply Chain Management Agent"
 date: 2004-01-01
-publishDate: 2020-01-07T17:47:11.269113Z
+publishDate: 2020-01-07T18:46:32.211362Z
 authors: ["Michael Benisch", "Amy Greenwald", "Ioanna Grypari", "Roger Lederman", "Victor Naroditskiy", "Michael Carl Tschantz"]
 publication_types: ["1"]
 abstract: ""

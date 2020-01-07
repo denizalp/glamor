@@ -1,7 +1,7 @@
 ---
 title: "Probabilistic pricebots"
 date: 2001-01-01
-publishDate: 2020-01-07T17:47:11.273680Z
+publishDate: 2020-01-07T18:46:32.216134Z
 authors: ["Amy Greenwald", "Jeffrey O. Kephart"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "The price of independence in simultaneous auctions"
 date: 2013-01-01
-publishDate: 2020-01-07T17:47:11.256016Z
+publishDate: 2020-01-07T18:46:32.195922Z
 authors: ["Brandon A. Mayer", "Eric Sodomka", "Amy Greenwald"]
 publication_types: ["1"]
 abstract: ""

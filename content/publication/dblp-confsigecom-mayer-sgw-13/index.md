@@ -1,7 +1,7 @@
 ---
 title: "Accounting for price dependencies in simultaneous sealed-bid auctions"
 date: 2013-01-01
-publishDate: 2020-01-07T17:47:11.256591Z
+publishDate: 2020-01-07T18:46:32.196715Z
 authors: ["Brandon A. Mayer", "Eric Sodomka", "Amy Greenwald", "Michael P. Wellman"]
 publication_types: ["1"]
 abstract: ""

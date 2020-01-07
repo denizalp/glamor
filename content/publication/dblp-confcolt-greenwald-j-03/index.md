@@ -1,7 +1,7 @@
 ---
 title: "A General Class of No-Regret Learning Algorithms and Game-Theoretic Equilibria"
 date: 2003-01-01
-publishDate: 2020-01-07T17:47:11.270999Z
+publishDate: 2020-01-07T18:46:32.213464Z
 authors: ["Amy Greenwald", "Amir Jafari"]
 publication_types: ["1"]
 abstract: ""

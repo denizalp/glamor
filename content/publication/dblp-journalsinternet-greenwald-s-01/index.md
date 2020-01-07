@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Bidding Agents in the Trading Agent Competition"
 date: 2001-01-01
-publishDate: 2020-01-07T17:47:11.273391Z
+publishDate: 2020-01-07T18:46:32.215822Z
 authors: ["Amy Greenwald", "Peter Stone"]
 publication_types: ["2"]
 abstract: ""

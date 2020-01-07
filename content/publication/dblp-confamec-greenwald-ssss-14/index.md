@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Analysis of QuiBids' Penny Auctions"
 date: 2014-01-01
-publishDate: 2020-01-07T17:47:11.254586Z
+publishDate: 2020-01-07T18:46:32.193947Z
 authors: ["Amy Greenwald", "Eric Sodomka", "Eric Stix", "Jeffrey Stix", "David Storch"]
 publication_types: ["1"]
 abstract: ""

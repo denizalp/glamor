@@ -1,7 +1,7 @@
 ---
 title: "Feature-based Joint Planning and Norm Learning in Collaborative Games"
 date: 2016-01-01
-publishDate: 2020-01-07T17:47:11.253705Z
+publishDate: 2020-01-07T18:46:32.192778Z
 authors: ["Mark K. Ho", "James MacGlashan", "Amy Greenwald", "Michael L. Littman", "Elizabeth Hilliard", "Carl Trimbach", "Stephen Brawner", "Josh Tenenbaum", "Max Kleiman-Weiner", "Joseph L. Austerweil"]
 publication_types: ["1"]
 abstract: ""

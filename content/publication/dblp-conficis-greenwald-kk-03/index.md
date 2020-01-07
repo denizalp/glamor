@@ -1,7 +1,7 @@
 ---
 title: "A Computational Approach to Compare Information Revelation Policies"
 date: 2003-01-01
-publishDate: 2020-01-07T17:47:11.271290Z
+publishDate: 2020-01-07T18:46:32.213797Z
 authors: ["Amy Greenwald", "Karthik Kannan", "Ramayya Krishnan"]
 publication_types: ["1"]
 abstract: ""

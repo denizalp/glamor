@@ -1,7 +1,7 @@
 ---
 title: "Fast Algorithms for Computing Interim Allocations in Single-Parameter Environments"
 date: 2018-01-01
-publishDate: 2020-01-07T17:47:11.251335Z
+publishDate: 2020-01-07T18:46:32.189606Z
 authors: ["Amy Greenwald", "Jasper Lee", "Takehiro Oyakawa"]
 publication_types: ["1"]
 abstract: ""

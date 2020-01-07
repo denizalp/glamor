@@ -1,7 +1,7 @@
 ---
 title: "Bidding Heuristics for Simultaneous Auctions: Lessons from TAC Travel"
 date: 2008-01-01
-publishDate: 2020-01-07T17:47:11.260868Z
+publishDate: 2020-01-07T18:46:32.202203Z
 authors: ["Amy Greenwald", "Victor Naroditskiy", "Seong Jae Lee"]
 publication_types: ["1"]
 abstract: ""

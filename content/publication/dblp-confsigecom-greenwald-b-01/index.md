@@ -1,7 +1,7 @@
 ---
 title: "Bidding algorithms for simultaneous auctions"
 date: 2001-01-01
-publishDate: 2020-01-07T17:47:11.274409Z
+publishDate: 2020-01-07T18:46:32.217034Z
 authors: ["Amy Greenwald", "Justin A. Boyan"]
 publication_types: ["1"]
 abstract: ""

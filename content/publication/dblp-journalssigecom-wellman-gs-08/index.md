@@ -1,7 +1,7 @@
 ---
 title: "Book announcement: autonomous bidding agents"
 date: 2008-01-01
-publishDate: 2020-01-07T17:47:11.260469Z
+publishDate: 2020-01-07T18:46:32.201808Z
 authors: ["Michael P. Wellman", "Amy Greenwald", "Peter Stone"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "RoxyBot-06: Stochastic Prediction and Optimization in TAC Travel"
 date: 2009-01-01
-publishDate: 2020-01-07T17:47:11.259803Z
+publishDate: 2020-01-07T18:46:32.201011Z
 authors: ["Amy Greenwald", "Seong Jae Lee", "Victor Naroditskiy"]
 publication_types: ["2"]
 abstract: ""

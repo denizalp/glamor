@@ -1,7 +1,7 @@
 ---
 title: "Dynamic pricing by software agents"
 date: 2000-01-01
-publishDate: 2020-01-07T17:47:11.274938Z
+publishDate: 2020-01-07T18:46:32.217561Z
 authors: ["Jeffrey O. Kephart", "James E. Hanson", "Amy Greenwald"]
 publication_types: ["2"]
 abstract: ""

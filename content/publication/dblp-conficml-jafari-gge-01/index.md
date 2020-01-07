@@ -1,7 +1,7 @@
 ---
 title: "On No-Regret Learning, Fictitious Play, and Nash Equilibrium"
 date: 2001-01-01
-publishDate: 2020-01-07T17:47:11.273918Z
+publishDate: 2020-01-07T18:46:32.216499Z
 authors: ["Amir Jafari", "Amy Greenwald", "David Gondek", "Gunes Ercal"]
 publication_types: ["1"]
 abstract: ""

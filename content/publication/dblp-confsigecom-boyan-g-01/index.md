@@ -1,7 +1,7 @@
 ---
 title: "Bid determination in simultaneous actions an agent architecture"
 date: 2001-01-01
-publishDate: 2020-01-07T17:47:11.274678Z
+publishDate: 2020-01-07T18:46:32.217316Z
 authors: ["Justin A. Boyan", "Amy Greenwald"]
 publication_types: ["1"]
 abstract: ""

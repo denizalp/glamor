@@ -1,7 +1,7 @@
 ---
 title: "Shopbot Economics"
 date: 2002-01-01
-publishDate: 2020-01-07T17:47:11.272367Z
+publishDate: 2020-01-07T18:46:32.214797Z
 authors: ["Jeffrey O. Kephart", "Amy Greenwald"]
 publication_types: ["2"]
 abstract: ""

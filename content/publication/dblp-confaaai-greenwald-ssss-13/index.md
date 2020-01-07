@@ -1,7 +1,7 @@
 ---
 title: "Empirical Analysis of Auctioneer Profitability in QuiBids Penny Auctions"
 date: 2013-01-01
-publishDate: 2020-01-07T17:47:11.255445Z
+publishDate: 2020-01-07T18:46:32.195166Z
 authors: ["Amy Greenwald", "Eric Sodomka", "Eric Stix", "Jeffrey Stix", "David Storch"]
 publication_types: ["1"]
 abstract: ""

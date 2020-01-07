@@ -1,7 +1,7 @@
 ---
 title: "On Revenue-Maximizing Mechanisms Assuming Convex Costs"
 date: 2018-01-01
-publishDate: 2020-01-07T17:47:11.251605Z
+publishDate: 2020-01-07T18:46:32.189908Z
 authors: ["Amy Greenwald", "Takehiro Oyakawa", "Vasilis Syrgkanis"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Approximating Equilibria in Sequential Auctions with Incomplete Information and Multi-Unit Demand"
 date: 2012-01-01
-publishDate: 2020-01-07T17:47:11.257177Z
+publishDate: 2020-01-07T18:46:32.197495Z
 authors: ["Amy Greenwald", "Jiacui Li", "Eric Sodomka"]
 publication_types: ["1"]
 abstract: ""

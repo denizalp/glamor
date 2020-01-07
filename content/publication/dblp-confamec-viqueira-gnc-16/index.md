@@ -1,7 +1,7 @@
 ---
 title: "On Revenue-Maximizing Walrasian Equilibria for Size-Interchangeable Bidders"
 date: 2016-01-01
-publishDate: 2020-01-07T17:47:11.253372Z
+publishDate: 2020-01-07T18:46:32.192355Z
 authors: ["Enrique Areyan Viqueira", "Amy Greenwald", "Victor Naroditskiy", "Daniels Collins"]
 publication_types: ["1"]
 abstract: ""

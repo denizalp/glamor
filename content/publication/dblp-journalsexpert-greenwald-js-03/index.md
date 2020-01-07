@@ -1,7 +1,7 @@
 ---
 title: "Guest Editors' Introduction: Agents and Markets"
 date: 2003-01-01
-publishDate: 2020-01-07T17:47:11.270738Z
+publishDate: 2020-01-07T18:46:32.213039Z
 authors: ["Amy Greenwald", "Nicholas R. Jennings", "Peter Stone"]
 publication_types: ["2"]
 abstract: ""

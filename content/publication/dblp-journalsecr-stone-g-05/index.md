@@ -1,7 +1,7 @@
 ---
 title: "The First International Trading Agent Competition: Autonomous Bidding Agents"
 date: 2005-01-01
-publishDate: 2020-01-07T17:47:11.266351Z
+publishDate: 2020-01-07T18:46:32.208857Z
 authors: ["Peter Stone", "Amy Greenwald"]
 publication_types: ["2"]
 abstract: ""

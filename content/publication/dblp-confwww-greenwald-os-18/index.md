@@ -1,7 +1,7 @@
 ---
 title: "Simple vs Optimal Contests with Convex Costs"
 date: 2018-01-01
-publishDate: 2020-01-07T17:47:11.251842Z
+publishDate: 2020-01-07T18:46:32.190302Z
 authors: ["Amy Greenwald", "Takehiro Oyakawa", "Vasilis Syrgkanis"]
 publication_types: ["1"]
 abstract: ""

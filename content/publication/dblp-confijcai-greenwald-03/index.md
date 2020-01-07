@@ -1,7 +1,7 @@
 ---
 title: "Bidding Marginal Utility in Simultaneous Auctions"
 date: 2003-01-01
-publishDate: 2020-01-07T17:47:11.272051Z
+publishDate: 2020-01-07T18:46:32.214475Z
 authors: ["Amy Greenwald"]
 publication_types: ["1"]
 abstract: ""

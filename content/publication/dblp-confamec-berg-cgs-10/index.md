@@ -1,7 +1,7 @@
 ---
 title: "Rank and Impression Estimation in a Stylized Model of Ad Auctions"
 date: 2010-01-01
-publishDate: 2020-01-07T17:47:11.259161Z
+publishDate: 2020-01-07T18:46:32.200199Z
 authors: ["Jordan Berg", "Carleton Coffrin", "Amy Greenwald", "Eric Sodomka"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Dynamic pricing strategies under a finite time horizon"
 date: 2001-01-01
-publishDate: 2020-01-07T17:47:11.274152Z
+publishDate: 2020-01-07T18:46:32.216767Z
 authors: ["Joan Morris DiMicco", "Amy Greenwald", "Pattie Maes"]
 publication_types: ["1"]
 abstract: ""

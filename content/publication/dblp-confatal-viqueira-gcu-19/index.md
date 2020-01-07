@@ -1,7 +1,7 @@
 ---
 title: "Learning Simulation-Based Games from Data"
 date: 2019-01-01
-publishDate: 2020-01-07T17:47:11.249733Z
+publishDate: 2020-01-07T18:46:32.187617Z
 authors: ["Enrique Areyan Viqueira", "Amy Greenwald", "Cyrus Cousins", "Eli Upfal"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Learning Curve: A Simulation-Based Approach to Dynamic Pricing"
 date: 2003-01-01
-publishDate: 2020-01-07T17:47:11.270203Z
+publishDate: 2020-01-07T18:46:32.212346Z
 authors: ["Joan Morris DiMicco", "Pattie Maes", "Amy Greenwald"]
 publication_types: ["2"]
 abstract: ""
