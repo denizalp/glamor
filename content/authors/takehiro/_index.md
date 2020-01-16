@@ -2,8 +2,6 @@
 authors:
 - takehiro
 bio: 
-education:
-  courses:
 email: ""
 interests:
 name: Takehiro Oyakawa
