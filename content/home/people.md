@@ -3,17 +3,18 @@
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "The Lab"
+title = "People"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Grad Students",
+  user_groups = ["Principal Investigators",
+                 "Grad Students",
                  "Administration",
                  "Visitors",
                  "Alumni"]
@@ -52,3 +53,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+

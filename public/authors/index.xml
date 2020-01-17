@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | GLAMOR Lab</title>
+    <title>Authors | GLAM Lab</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -707,6 +707,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/deni/</guid>
       <description>&lt;p&gt;The invention of game theory coupled with recent advances in artificial intelligence and computer hardware, brings to us the possibility of modeling and simulating more and more of human behavior that we observe in the real world. This possibility drives Denizalp&#39;s research goal of designing and implementing AI agents that interact in multiagent environments in order to predict outcomes in the real-world. In pursuing these goals, Denizalp makes use of theoretical and practical sources, including a variety of disciplines such as AI, decision theory, game theory, and economics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/enrique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/enrique/</guid>
+      <description>&lt;p&gt;I&#39;m a Ph.D. candidate in Computer Science at Brown University focusing on developing machine learning techniques to solve problems in mechanism design and empirical game-theoretical analysis. I also design automated bidding agents for electronic markets.&lt;/p&gt;
 </description>
     </item>
     
