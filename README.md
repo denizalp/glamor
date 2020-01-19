@@ -12,3 +12,7 @@ Add your personal news by navigating [here](./content/news/index.md) and adding 
 # Adding publications
 
 Add recent publications to list of publications on the website by navigating [here](./publications.bib) and adding to the bib document your publication in the bibtex format. Information on bibtex can be found [here](http://www.bibtex.org/Format/)
+
+# Chaging Personal Information
+
+Change the personal information about you by navigating to the folder corresponding to your name [here](./authors) and modifying the desired information.
