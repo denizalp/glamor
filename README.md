@@ -15,4 +15,4 @@ Add recent publications to list of publications on the website by navigating [he
 
 # Chaging Personal Information
 
-Change the personal information about you by navigating to the folder corresponding to your name [here](./authors) and modifying the desired information.
+Change the personal information about you by navigating to the folder corresponding to your name [here](./content/authors) and modifying the desired information.
