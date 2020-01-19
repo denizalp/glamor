@@ -1,0 +1,21 @@
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+{{ $news := site.GetPage "/news"}}
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    {{ with $news.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
+    {{ with $news.Params.subtitle }}<p>{{ . | safeHTML | emojify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    <ul>
+      {{ range first 10 (after 1 (split (replaceRE "(<ul>)|(</ul>)|(</li>)" "" $news.Content) "<li>")) }} 
+        <li> {{ . }} </li>
+      {{ end }}
+      <div style="float: right;"> <a href="{{ $news.RelPermalink }}"> <h2>Read all news…</h2> </a> </div>
+    </ul>
+    
+     
+  </div>
+    
+
+</div>
