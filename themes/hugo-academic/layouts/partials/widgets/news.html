@@ -9,7 +9,7 @@
   <div class="col-12 col-lg-8">
     <ul>
       {{ range first 10 (after 1 (split (replaceRE "(<ul>)|(</ul>)|(</li>)" "" $news.Content) "<li>")) }} 
-        <li> {{ . }} </li>
+        <li> {{ . | markdownify }} </li>
       {{ end }}
       <div style="float: right;"> <a href="{{ $news.RelPermalink }}"> <h2>Read all news…</h2> </a> </div>
     </ul>
