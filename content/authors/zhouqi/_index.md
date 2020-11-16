@@ -1,16 +1,16 @@
 ---
 authors:
-- takehiro
+- Zhouqi
 bio: 
 email: ""
 interests:
-name: kweku kwegyir-aggrey
+name: Zhouqi Gong
 organizations:
 - name: Brown University
   url: ""
-role: Ph.D. Student
+role: Master Student
 social:
 superuser: true
 user_groups:
-- Grad Students
+- Master Students
 ---

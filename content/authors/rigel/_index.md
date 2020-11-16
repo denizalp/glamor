@@ -1,16 +1,16 @@
 ---
 authors:
-- takehiro
+- rigel
 bio: 
 email: ""
 interests:
-name: Takehiro Oyakawa
+name: Rigel Galgana
 organizations:
 - name: Brown University
   url: ""
-role: Ph.D. Student
+role: Undergraduate Student
 social:
 superuser: true
 user_groups:
-- Ph.D. Students
+- Alumni
 ---

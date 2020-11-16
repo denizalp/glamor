@@ -44,7 +44,7 @@ social:
   link: 'http://www.enriqueareyan.com/'
 superuser: true
 user_groups:
-- Grad Students
+- Ph.D. Students
 ---
 
 I'm a Ph.D. candidate in Computer Science at Brown University focusing on developing machine learning techniques to solve problems in mechanism design and empirical game-theoretical analysis. I also design automated bidding agents for electronic markets.
